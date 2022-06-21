@@ -1,0 +1,16 @@
+{
+    "homepage": "https://www.dcloud.io/hbuilderx.html",
+    "version": "3.4.15.20220610",
+    "license": "unknown",
+    "url": "https://download1.dcloud.net.cn/download/HBuilderX.3.4.15.20220610.zip",
+    "bin": "HBuilderX\\HBuilderX.exe",
+    "shortcuts": [
+        [
+            "HBuilderX\\HBuilderX.exe",
+            "HBuilderX"
+        ]
+    ],
+    "autoupdate": {
+        "url": "https://download1.dcloud.net.cn/HBuilderX.$version.zip"
+    }
+}
