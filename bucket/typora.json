@@ -1,0 +1,18 @@
+{
+    "version": "0.11.13",
+    "description": "A truly minimal markdown editor",
+    "homepage": "https://typora.id",
+    "license": {
+        "identifier": "Proprietary",
+        "url": "https://support.typora.io/License-Agreement/"
+    },
+    "innosetup": true,
+    "bin": "Typora.exe",
+    "shortcuts": [
+        [
+            "Typora.exe",
+            "Typora"
+        ]
+    ],
+    "url":"https://download.typora.io/windows/typora-update-x64-1117.exe"
+}
